@@ -19,4 +19,4 @@ Download package and execute this following command in application directory:
 Information
 -----------
 
-Application developped in Python version 3
+Application developped using Python version 3
