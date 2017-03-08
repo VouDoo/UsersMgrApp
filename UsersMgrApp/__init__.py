@@ -16,7 +16,7 @@ Versions notes:
 
 1.0.0
 -----
-Date: 2016-03-06
+Date: 2017-03-06
 - First release
 """
 
@@ -33,7 +33,7 @@ def main(args):
 
 
 if __name__ == "__main__":
-    # All libs are part of standard distribution for python 3
+    # Libs are part of standard distribution for python 3
     import sys
     # Application libs
     from gui import *
